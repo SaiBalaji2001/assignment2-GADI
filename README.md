@@ -6,7 +6,7 @@ I like **Cricket** most because since my chilhood me and my friends ued to play 
 
 ---
 
-# part6 is Section with an ordered list
+# This Section is for an ordered list
 #### Mumbai Indians
 1. Rohit Sharma
 2. Jasprit Bumrah
