@@ -13,7 +13,7 @@ I like **Cricket** most because since my chilhood me and my friends ued to play 
 3. Kieron Pollard
 
 # This Section is for an unordered list
-#### Chennai Super Kings
-- MS Dhoni
-- Suresh Raina
-- Ravindra Jadeja
+#### Other teams i like
+- Chennai Super Kings
+- Royal Challengers Bangalore
+- Sunrisers Hyderabad
