@@ -3,7 +3,7 @@ My name is **Sai Balaji Gadi**, I am from vijayawada and I completed my undergra
 
 I have added my image to repo [Click here to Open](https://github.com/SaiBalaji2001/assignment2-GADI/blob/main/MyPhoto.jpg)
 
----
+-----------
 
 # This Section is for Tables
 The below table i have written represent about the countries i would like recommed you for vaccation and In this table you can see what are the countries i have recommeded and you can also know reason why i recommed this countries and finally you can also know duration of my vaccation.
@@ -15,3 +15,12 @@ The below table i have written represent about the countries i would like recomm
 | Dubai | Advanced technology and development we should see and place to relax more | 30 |
 | France | There are world-class art and architecture we should see and there are beautiful places we should explore | 60 |
 | Ukraine | There are Wonderful landmarks we should visit | 30 |
+
+-----------
+
+# This Section is for Pithy Quotes 
+> THIS IS MY FAVORITE BOOK IN ALL THE WORLD, THOUGH I HAVE NEVER READ IT
+>> *William Goldman*
+
+> THE SECRET OF STAYING YOUNG IS TO LIVE HONESTLY. EAT SLOWLY, AND LIE ABOUT YOUR AGE
+>> *Lucille Ball*
