@@ -24,3 +24,18 @@ The below table i have written represent about the countries i would like recomm
 
 > THE SECRET OF STAYING YOUNG IS TO LIVE HONESTLY. EAT SLOWLY, AND LIE ABOUT YOUR AGE
 >> *Lucille Ball*
+
+-------------
+
+# This Section is for Code Fencing
+> Password protecting folder or directory in java or python
+
+To Know more about this click here <https://stackoverflow.com/questions/58321548/password-protecting-folder-or-directory-in-java-or-python>
+
+```
+AuthType Basic
+AuthName "This Area is Password Protected"
+AuthUserFile /full/path/to/.htpasswd
+Require valid-user
+```
+To See more about code click here <https://css-tricks.com/snippets/htaccess/password-protect-folders/>
