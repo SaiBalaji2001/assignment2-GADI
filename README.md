@@ -32,3 +32,12 @@ The below table i have written represent about the countries i would like recomm
 | Dubai | Advanced technology and development we should see and place to relax more | 30 |
 | France | There are world-class art and architecture we should see and there are beautiful places we should explore | 60 |
 | Ukraine | There are Wonderful landmarks we should visit | 30 |
+
+-----------
+
+# This Section is for Pithy Quotes 
+> THIS IS MY FAVORITE BOOK IN ALL THE WORLD, THOUGH I HAVE NEVER READ IT
+>> *William Goldman*
+
+> THE SECRET OF STAYING YOUNG IS TO LIVE HONESTLY. EAT SLOWLY, AND LIE ABOUT YOUR AGE
+>> *Lucille Ball*
