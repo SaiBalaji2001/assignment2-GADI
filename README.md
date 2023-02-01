@@ -25,7 +25,7 @@ Adding Aboutme link [click here to open](https://github.com/SaiBalaji2001/assign
 # This Section is for Tables
 The below table i have written represent about the countries i would like recommed you for vaccation and In this table you can see what are the countries i have recommeded and you can also know reason why i recommed this countries and finally you can also know duration of my vaccation.
 
-| Name | Reason | Days Spend|
+| Name of the Country | Reason | Days Spend|
 | --- | --- | --- |
 | United States | Hisotrical landmarks and there are wonderful places to explore | 60 |
 | India | Rich in culture and tradition we should know | 90 |
